@@ -1,0 +1,15 @@
+no_op
+input
+mov
+add
+sub
+and
+or
+xor
+load
+store
+push
+pull
+ret
+jump
+jsr
